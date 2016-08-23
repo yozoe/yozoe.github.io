@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[test]]></title>
+      <url>http://yoursite.com/2016/08/23/test/</url>
+      <content type="html"><![CDATA[<p>this is a test!</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[二代呵呵]]></title>
+      <url>http://yoursite.com/2016/08/23/%E4%BA%8C%E4%BB%A3%E5%91%B5%E5%91%B5/</url>
+      <content type="html"><![CDATA[<p>呵呵二代</p>
+]]></content>
+    </entry>
+    
+  
+  
+</search>
